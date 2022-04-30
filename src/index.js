@@ -12,7 +12,7 @@ import Leaderboard from './pages/leaderboard';
 
 import { getChainOptions, WalletProvider } from '@terra-money/wallet-provider';
 
-const TWITTER_HANDLE = '_buildspace';
+const TWITTER_HANDLE = 'agramajo';
 const TWITTER_LINK = `https://twitter.com/${TWITTER_HANDLE}`;
 
 getChainOptions().then((chainOptions) => {
